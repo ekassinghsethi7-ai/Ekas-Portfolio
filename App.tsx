@@ -1,14 +1,14 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import CareerMap from './components/CareerMap';
-import FinanceProjects from './components/FinanceProjects';
-import ArticleCommentary from './components/ArticleCommentary';
-import EdenSneakerHeroes from './components/EdenSneakerHeroes';
-import MMABlog from './components/MMABlog';
-import PortfolioPerformance from './components/PortfolioPerformance';
-import CurrentReads from './components/CurrentReads';
-import Footer from './components/Footer';
+import Header from './Header';
+import Hero from './Hero';
+import CareerMap from './CareerMap';
+import FinanceProjects from './FinanceProjects';
+import ArticleCommentary from './ArticleCommentary';
+import EdenSneakerHeroes from './EdenSneakerHeroes';
+import MMABlog from './MMABlog';
+import PortfolioPerformance from './PortfolioPerformance';
+import CurrentReads from './CurrentReads';
+import Footer from './Footer';
 
 function App() {
   return (
